@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer2 {
     public static void main(String[] args) {
         /* Faça um programa que leia um número N do usuário, some todos os números inteiros de 1 a N, e mostre o
@@ -25,4 +21,3 @@ resultado obtido. Use o laço WHILE */
     }
     
 }
-                                      // FEITO //
