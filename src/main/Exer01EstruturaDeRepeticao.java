@@ -1,9 +1,5 @@
 package exerestruturaderepeticao.exerestruturaderepeticao;
-
-/**
- *
- * @author Barbara
- */
+/
 public class ExerEstruturaDeRepeticao {
 
     public static void main(String[] args) {
@@ -16,4 +12,3 @@ public class ExerEstruturaDeRepeticao {
         }
     }
 }
-                             // FEITO //
