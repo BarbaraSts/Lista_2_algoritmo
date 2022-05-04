@@ -1,9 +1,5 @@
 package exerestruturaderepeticao.exerestruturaderepeticao;
 
-/**
- *
- * @author Barbara
- */
 public class exr8 {
     public static void main(String[] args) {
         /* Calcular e mostrar a média aritmética dos números pares compreendidos entre 13 e 73. Utilize o laço que
@@ -21,4 +17,3 @@ lhe for mais conveniente. */
             System.out.println("A média é = " + media);
     }
 }
-                                             // FEIITO //
