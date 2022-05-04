@@ -1,14 +1,9 @@
 package exerestruturaderepeticao.exerestruturaderepeticao;
 
-/**
- *
- * @author Barbara
- */
 public class exer7 {
     public static void main(String[] args) {
        /* Escreva um programa que imprima todos os múltiplos de 7 menores que 200. Use o laço WHILE */
-      
-       
+             
        int multiplos, i = 0;
        System.out.println("Os múltiplos são:");
        
@@ -22,4 +17,3 @@ public class exer7 {
       }
    }
 }
-                                             // FEITO //
