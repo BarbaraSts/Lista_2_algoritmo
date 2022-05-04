@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer20 {
     public static void main(String[] args) {
         /* Escreva um programa capaz de ler o saldo inicial de uma conta bancária e um número indeterminado de
@@ -58,4 +54,3 @@ Utilize o laço DO-WHILE. */
         }while(menu != 3);       
     }    
 }
-                                                  // FEITO //
