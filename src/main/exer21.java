@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer21 {
     public static void main(String[] args) {
         /* Na matemática, um número perfeito é um número inteiro para o qual a soma de todos os seus divisores
@@ -34,4 +30,3 @@ perfeito ou não. Utilize o laço que lhe for mais conveniente. */
         }  
     }
 }    
-                                                // FEITO //
