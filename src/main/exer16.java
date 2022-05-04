@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer16 {
     public static void main(String[] args) {
         /* Leia um valor inteiro N. Este valor será a quantidade de valores que serão lidos em seguida do usuário.
@@ -37,5 +33,4 @@ deverá imprimir apenas NULO. Utilize o laço DO-WHILE. */
         i--;
         }while(i > 0);      
       }
-}                      
-                                                // FEITO //        
+}                         
