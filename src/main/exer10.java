@@ -1,9 +1,5 @@
 package exerestruturaderepeticao.exerestruturaderepeticao;
 
-/**
- *
- * @author Barbara
- */
 public class exer10 { 
     public static void main(String[] args) {
         /* Faça um programa que calcule e imprima o resultado da soma abaixo (lembre-se de que tanto as divisões
@@ -18,4 +14,3 @@ quanto o resultado devem ser decimais). Utilize o laço que lhe for mais conveni
                 System.out.println("A soma é de: " + aux);
             }
         }       
-                                            // FEITO //
