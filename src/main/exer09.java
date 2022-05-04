@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer9 {
     public static void main(String[] args) {
         /* Escreva um programa para ler a quantidade de alunos existentes em uma turma. Depois disso, o programa
@@ -33,4 +29,3 @@ Utilize o laço WHILE. */
         }                  
     }    
 }
-                                       // FEITO //
