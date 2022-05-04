@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer18 {
     public static void main(String[] args) {
         /* A seguinte sequência de números 0, 1, 1, 2, 3, 5, 8, 13, 21... é conhecida como série de Fibonacci. Nessa
@@ -14,8 +10,7 @@ leia um inteiro N (onde N < 46) e mostre os N primeiros números dessa série. U
 conveniente. */
         
         Scanner input = new Scanner(System.in);
-        
-        
+            
         int nInteir0, x, y = 0, z = 1;
         System.out.println("Digite um número: ");
         nInteir0 = input.nextInt();
@@ -32,4 +27,3 @@ conveniente. */
         }
     }
 }
-                                                            // FEITO //
