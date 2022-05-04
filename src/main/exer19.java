@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer19 {
     public static void main(String[] args) {
         /* Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha
@@ -27,4 +23,3 @@ deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Conside
         }while(senha != 2002);
     }   
 }
-                                              // FEITO //
