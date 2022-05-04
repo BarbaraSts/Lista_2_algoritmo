@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer14 {
     public static void main(String[] args) {
         /* . Faça um programa que leia um número natural N e calcule a soma abaixo (lembre-se de que tanto as divisões
@@ -26,4 +22,3 @@ quanto o resultado devem ser decimais). Utilize o laço que lhe for mais conveni
          System.out.println("O resultado é: " + total);
          }
     }
-
