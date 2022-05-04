@@ -2,10 +2,6 @@ package exerestruturaderepeticao.exerestruturaderepeticao;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class exer15 {
     public static void main(String[] args) {
         /* Faça um programa que leia um número inteiro N maior do que zero e calcule o fatorial desse número.
@@ -25,4 +21,3 @@ Utilize o laço que lhe for mais conveniente. */
         System.out.printf("%d! = %d", numeroIn, fatorial);
     }
 }
-                                             // FEITO //
